@@ -88,6 +88,10 @@ Factory.Util.AES().Encrypt AES加密
 
 
 PHP版本
+2020-07-06 Version: 2.0.2
+1. 修复 AntCertificationUtil php7.4 BUG
+
+
 2020-07-06 Version: 2.0.0
 1. 支持可选业务参数的装配。
 2. 支持ISV代调用。
